@@ -1,15 +1,12 @@
 # pip install -r requirements.txt
 # OpenLabeling basic --------------------------
 lxml==4.3.0
-numpy>=1.16.0
-opencv-contrib-python==3.4.9.33
 tqdm==4.29.1
-
+numpy>=1.18.5
+opencv-python>=4.1.2
 
 # Yolov5 Base ----------------------------------------
 matplotlib>=3.2.2
-numpy>=1.18.5
-opencv-python>=4.1.2
 Pillow>=7.1.2
 PyYAML>=5.3.1
 requests>=2.23.0
