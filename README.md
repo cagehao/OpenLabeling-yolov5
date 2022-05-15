@@ -19,6 +19,7 @@ Usage:
 + Drag the Balance track bar to the level you want to augment
 (you can repeat the two steps for multiple classes balancing, your choice of each class will be remembered)
 + select the image and set Detect = 1, you can see the difference after the class balancing.
-reference:
+![4.png](https://raw.github.com/cagehao/OpenLabeling-yolov5/master/4.png)
+# reference:
 + yolov5:https://github.com/ultralytics/yolov5
 + OpenLabeling: https://github.com/Cartucho/OpenLabeling
