@@ -1,8 +1,13 @@
 #!/bin/python
+import sys
+import os
+import inspect
+currentdir = os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe())))
+parentdir = os.path.dirname(currentdir)
+sys.path.insert(0, parentdir) 
 import argparse
 import glob
 import json
-import os
 import re
 from PyQt5.Qt import *
 import cv2
